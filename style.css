@@ -1,0 +1,22 @@
+
+body {
+	color: white;
+	background: linear-gradient(black, gray);
+}
+
+#all {
+	position:relative;
+	left: 150px;
+}
+
+#navBar {
+	margin: 10px;
+	position: relative;
+	top: 150px;
+}
+
+ul {
+	list-style-type: none;
+	color: white;
+}
+
