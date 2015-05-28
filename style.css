@@ -1,7 +1,11 @@
+h1 {
+text-transform: uppercase;
+font-weight: bold;
+}
 
 body {
 	color: white;
-	background: linear-gradient(black, gray);
+	background: linear-gradient(#00134D, #00394D, #004D39, #004D13);
 }
 
 #all {
@@ -18,5 +22,15 @@ body {
 ul {
 	list-style-type: none;
 	color: white;
+}
+
+a:link {
+color: white;
+}
+a:visited {
+color: white;
+}
+a:hover {
+color: gray;
 }
 
