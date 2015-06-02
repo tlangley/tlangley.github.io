@@ -1,3 +1,7 @@
+html {
+min-height: 100%;
+}
+
 h1 {
 text-transform: uppercase;
 font-weight: bold;
@@ -6,11 +10,12 @@ font-weight: bold;
 body {
 	color: white;
 	background: linear-gradient(#00134D, #00394D, #004D39, #004D13);
+	max-width: 80%;
 }
 
 #all {
 	position:relative;
-	left: 150px;
+	left: 250px;
 }
 
 #navBar {
@@ -33,4 +38,5 @@ color: white;
 a:hover {
 color: gray;
 }
+
 
